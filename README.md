@@ -1,6 +1,6 @@
 #Image Apportionor
 
-A simple clustering based image processing. In its nascent stages, the algorithm was just a test implementation of the K-Means clustering but ultimately evolved into something much more. The project was done in Summer '16 as a part of the mandatory training project after my second year in undergraduate.
+A simple clustering based image processing. In its nascent stages, the algorithm was just a test implementation of the K-Means clustering but ultimately evolved into something much more. The project was done in Summer '16 as a part of the mandatory training project after my second year in undergraduate studies.
 
 ##Running the code
 `conda/pip install pil` updates the python image library necessary for image I/O operations.
