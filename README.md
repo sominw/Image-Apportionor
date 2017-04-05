@@ -1,20 +1,20 @@
-#Image Apportionor
+# Image Apportionor
 
 A simple clustering based image processing. In its nascent stages, the algorithm was just a test implementation of the K-Means clustering but ultimately evolved into something much more. The project was done in Summer '16 as a part of the mandatory training project after my second year in undergraduate studies.
 
-##Running the code
+## Running the code
 `conda/pip install pil` updates the python image library necessary for image I/O operations.
 
 `graphics.py` - may or may not need this one depedning upon the platform.
 
 Execute `source.py`
 
-##Features
+## Features
 1. Implements K-Means in an elegant and understandable manner.
 2. Inputs are entirely user driven.
 3. Maximum Compression Ratio achieved: *6*
 
-##Developing the Project
+## Developing the Project
 The source code can be directly imported to practically any python IDE (preferably conda) and developers can start right away.
 The grounds of this one are primarily based on the K-means clustering and it started with a very naive implementation of the same in MATLAB in which centroid points and their movements were studied. 
 
@@ -22,7 +22,7 @@ The project is implemented entirely in Python with support of the Python Image L
 
 GUI implementation of the same can be done within python (could not do because of time constraints) and I very much encourage devs to to take it up.
 
-##Running
+## Running
 Test Image 1:
 
 ![alt text](https://github.com/sominwadhwa/Image-Apportionor/blob/master/Tests/test03.jpg "Test 1") 
