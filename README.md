@@ -35,7 +35,7 @@ Result:
 
 **Compression Ratio**: 6
 
-##Implementation Notes
+## Implementation Notes
 
 In practise, it was observed that if the image is very large, then K-means can take a long time to run. Therefore, it is recommended that images must be resized to managable sizes before running the code.
 
